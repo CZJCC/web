@@ -1190,4 +1190,5 @@ h4{padding-bottom: 20px;}
 .new .content{
 	padding: 20px 0;
 }
-.new .content p{padding: 10px;text-align:center;}
+.new .content p{padding: 10px;text-align:justify;}
+.new .content p.title{text-align: center;}
