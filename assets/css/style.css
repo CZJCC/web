@@ -256,11 +256,11 @@ h1,h2,h3,h4,h5,h6 {
 	bottom: 0;
 	padding-top: 10%;
 }
-.item {
+.carousel-inner .item {
 	height: 600px;
 	overflow: hidden;
 }
-.item img{
+.carousel-inner .item img{
 	vertical-align: middle;
 }
 .slider-icon {
