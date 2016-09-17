@@ -184,9 +184,10 @@ h1,h2,h3,h4,h5,h6 {
 	display: none;
 }
 .menu-logo .logo{
-	width: 30px;
+	width: 28px;
 }
 .menu-logo .text{
+	margin-left: 5px;
 	width:150px;
 }
 .navbar-toggle:focus {
