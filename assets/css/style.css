@@ -1171,3 +1171,23 @@ footer a {
 .copyright {
 	line-height: 95px;
 }
+.new{
+	max-width: 960px;
+	margin: 20px auto;
+	min-height: 430px;
+}
+h4{padding-bottom: 20px;}
+.new .wrapper{
+	text-align: center;
+}
+.new img{ width: 100%;}
+.new .title{
+	border-bottom: 1px solid #ccc;
+}
+.new h5 +p{
+	font-size: 12px;
+}
+.new .content{
+	padding: 20px 0;
+}
+.new .content p{padding: 10px;text-align:justify;}
